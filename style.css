@@ -1,0 +1,80 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+.topbar {
+background-color: #292929;
+  box-sizing: border-box;
+  margin: 0px;
+  height: 80px;
+}
+body {
+border: 0px;
+margin: 0px;
+padding: 0px;
+  
+}
+.title {
+color: #ffffff;
+  margin: 0px;
+  font-size: 30px;
+  line-height: 80px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+  .title span {
+text-align: right;
+  }
+
+p {
+  margin: 0px;
+}
+.info, .img, .color {
+background-color: #ffcc85;
+
+  
+}
+.nc1{
+  font-family: Arial, Helvetica, sans-serif;
+font-size: 28px;
+  
+}
+.flex-container {
+  display: flex;
+  flex-direction: row;
+}
+.nc2{
+  font-size: 51px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+img{
+margin-left: 55px;
+  margin-right:20px;
+  
+}
+.a3 {
+  font-family: Arial, Helvetica, sans-serif;
+font-size: 24px;
+  
+}
+a {
+margin: 0px;
+
+  
+}
+.sp2 {
+font-size: 100px;
+  
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+.s2 {
+text-align: right;
+}
+.f2{
+font-family: Font2;
+  
+}
+@font-face { font-family: Font2; src: url('8.ttf'); } 
